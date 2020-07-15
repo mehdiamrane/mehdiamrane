@@ -3,9 +3,9 @@
 I'm a passionate full stack javascript developer. Made my first website in High School and haven't stopped since.  
 Went to a 10 weeks intensive bootcamp, learned a ton of new skills, and ready to apply them at a new company!
 
-## My skills 🛠
+## My skills
 
-### Web technologies 🌐
+### Web technologies
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML</code>
@@ -17,19 +17,19 @@ Went to a 10 weeks intensive bootcamp, learned a ton of new skills, and ready to
 <code><img height="20" src="https://www.mongodb.com/assets/images/global/favicon.ico"> MongoDB</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"> Wordpress</code>
 
-### Development Environment 💻
+### Development Environment
 
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> Visual Studio Code</code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"> Git</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"> NPM</code>
 
-### Languages 💬
+### Languages
 
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/france.svg"> French (Native)</code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/uk.svg"> English (C1 - Advanced)</code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/germanyc.svg"> German (A2 - Intermediate)</code>
 
-### Currently learning 📚
+### Currently learning
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"> GraphQL</code>
