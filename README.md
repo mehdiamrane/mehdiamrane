@@ -1,7 +1,7 @@
-## Hey, I'm [Mehdi](https://mehdi.co) 👋
+## Hey I'm [Mehdi](https://mehdi.co), welcome on my GitHub
 
 I'm a passionate full stack javascript developer. Made my first website in High School and haven't stopped since.  
-Went to a 10 weeks intensive bootcamp, learned a ton of new skills, and ready to apply them at a new company!
+Went to a 10 weeks intensive bootcamp, learned a ton of new skills, and ready to apply them on new projects!
 
 ## My skills
 
