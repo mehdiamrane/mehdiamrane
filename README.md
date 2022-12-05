@@ -32,3 +32,7 @@ I'm a front-end developer who is passionate about writing code to build apps, we
 [![Twitter: mehdiamrane_](https://img.shields.io/twitter/follow/mehdiamrane_?style=social)](https://twitter.com/mehdiamrane_)
 [![Linkedin: mehdiamrane](https://img.shields.io/badge/-mehdiamrane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdiamrane/)](https://www.linkedin.com/in/mehdiamrane/)
 [![GitHub mehdiamrane](https://img.shields.io/github/followers/mehdiamrane?label=follow&style=social)](https://github.com/mehdiamrane)
+
+### Now listening to
+
+[![Spotify](https://mehdi-github-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/heymehdi)
