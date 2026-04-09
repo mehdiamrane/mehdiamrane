@@ -1,36 +1,19 @@
-## Hey 👋, I'm [Mehdi](https://mehdi.co)
+# Hey, I'm Mehdi 🐙
 
-I'm a front-end developer who is passionate about writing code to build apps, websites and any kind of fun project.
+Senior Front-End Developer based in Paris. 5+ years building SaaS products (B2C & B2B) with React, Next.js, and TypeScript.
 
-- 📚 Learned Web Dev @ [La Capsule](https://www.lacapsule.academy/)
-- 💼 Working as a Front-end dev @ [Shadow](https://shadow.tech)
+Currently co-founding ✒️ **[Inkvoice](https://inkvoice.fr)**, a mobile-first SaaS for tattoo and piercing professionals. Built with Expo (iOS/Android/Web) and Convex.
 
-### Languages and tools:
+Previously at 🎮 **[Shadow](https://shadow.tech)** (2022-2025), where I worked on the shop and customer portal within a 6-dev front-end team, defined the testing strategy, and mentored junior developers. And at **[Oxeva](https://www.oxeva.fr)** (2021-2022), where I worked on ☁️ **[Nua.ge](https://www.nua.ge)**, a cloud platform, while architecting a 50+ component library (80% test coverage) and owning the JavaScript SDK published on NPM.
 
-<code><img width="35px" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img width="35px" title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
-<code><img width="35px" title="HTML5" alt="HTML5"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img width="35px" title="CSS3" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img width="35px" title="Node.js" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img width="35px" title="Firebase" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></code>
-<code><img width="35px" title="React" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img width="35px" title="Next.js" alt="Next.js" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /></code>
-<code><img width="35px" title="React Native" alt="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /></code>
-<code><img width="35px" title="MongoDB" alt="MongoDB" src="https://www.mongodb.com/assets/images/global/favicon.ico" /></code>
-<code><img width="35px" title="Visual Studio Code" alt="VS Code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /></code>
-<code><img width="35px" title="Git" alt="Git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
-<code><img width="35px" title="NPM"  alt="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></code>
-<code><img width="35px" alt="Terminal" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
-<code><img width="35px" title="Storybook" alt="Storybook" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
-<code><img width="35px" title="Sass" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+Before that, I designed and built a full click & collect platform end-to-end as a freelance developer (2020-2021) and mentored students at 🚀 **[La Capsule](https://lacapsule.academy)** coding bootcamp (2020).
 
+## Featured projects
 
-### Let's connect
+- 🏆 **[redis-place](https://github.com/mehdiamrane/redis-place)**: Real-time collaborative pixel canvas (r/place clone) with WebSocket, analytics dashboard, heatmaps, and replay system. Winner of the [Redis AI Challenge hackathon](https://dev.to/devteam/congrats-to-the-redis-ai-challenge-winners-2f2j). ([Demo & write-up](https://dev.to/mehdi/redis-place-building-rplace-with-9-redis-data-structures-3lj8))
+- 🌐 **[mehdi.co](https://github.com/mehdiamrane/mehdi.co)**: My personal site. React, Next.js, Chakra UI, Framer Motion.
 
-[![Twitter: mehdiamrane_](https://img.shields.io/twitter/follow/mehdiamrane_?style=social)](https://twitter.com/mehdiamrane_)
-[![Linkedin: mehdiamrane](https://img.shields.io/badge/-mehdiamrane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdiamrane/)](https://www.linkedin.com/in/mehdiamrane/)
-[![GitHub mehdiamrane](https://img.shields.io/github/followers/mehdiamrane?label=follow&style=social)](https://github.com/mehdiamrane)
+## Links
 
-### Now listening to
-
-[![Spotify](https://mehdi-github-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/heymehdi)
+- [mehdi.co](https://mehdi.co)
+- [LinkedIn](https://linkedin.com/in/mehdiamrane)
